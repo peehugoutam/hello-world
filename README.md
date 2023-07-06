@@ -1,2 +1,2 @@
 # hello-world
-git learning repo
+This is git learning repo
